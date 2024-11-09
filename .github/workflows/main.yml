@@ -23,4 +23,4 @@ jobs:
       - name: Push to Hugging Face Hub
         env:
           HF_TOKEN: ${{ secrets.HF_TOKEN }}
-        run: git push https://$HF_TOKEN@huggingface.co/spaces/PastaStick/Simple_Math_AI main
+          run: git push https://huggingface.co/spaces/PastaStick/Simple_Math_AI main
