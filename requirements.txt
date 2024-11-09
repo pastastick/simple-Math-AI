@@ -1,0 +1,15 @@
+langchain
+langchain_ollama
+python-dotenv
+ipykernel
+langchain_community
+langchain_core
+langchain_groq
+streamlit
+wikipedia
+pandas
+validators==0.28.1
+duckduckgo_search==5.3.1b1
+duckdb
+unstructured
+numexpr
